@@ -58,6 +58,9 @@
         <a class="nav-link" href="error.php">Testing Error</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="registropatentemio.php">Tarifas</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
       </li>
       <li class="nav-item dropdown">
