@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.80.0">
-    <title>Estacionamiento Zona Sur</title>
+    <title>Dominic Park</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.6/examples/jumbotron/">
     <link rel="shortcut icon" href="favicon.png">
@@ -84,8 +84,8 @@
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="jumbotron">
     <div class="container">
-      <h1 class="display-3">Bienvenido a Estacionamiento Zona Sur</h1>
-      <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+      <h1 class="display-3">Bienvenido a Dominic Park</h1>
+      <p>Contamos con un estacionamiento abierto las 24 horas con capacidad para albergar hasta 500 vehículos en sus tres niveles. Tiene música funcional, excelente iluminación, todo en el marco de la tranquilidad que proporciona nuestro servicio de vigilancia permanente.</p>
       <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
     </div>
   </div>
