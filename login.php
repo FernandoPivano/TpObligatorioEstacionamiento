@@ -6,10 +6,10 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.80.0">
-    <title>Signin Template · Bootstrap v4.6</title>
+    <title>Estacionamiento Zona Sur</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.6/examples/sign-in/">
-
+    <link rel="shortcut icon" href="https://img.icons8.com/small/452/parking.png">
     
 
     <!-- Bootstrap core CSS -->
